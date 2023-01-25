@@ -129,8 +129,7 @@ You can remove it by deleting `intro-template`, and removing `IntroTemplate` usa
 - [How to query content?][sanity-groq]
 - [What is content modelling?][sanity-content-modelling]
 
-[vercel-deploy]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsanity-io%2Fsanity-template-nextjs-clean&repository-name=nextjs-sanity-clean&project-name=nextjs-sanity-clean&demo-title=Clean+Sanity+%2B+Next.js+app&demo-image=https%3A%2F%2Fuser-images.githubusercontent.com%2F835514%2F212771865-7a603a28-0416-45e8-84d3-2aafe02b0c7f.png&demo-description=A+clean+example+of+Next.js+with+embedded+Sanity+ready+for+recomposition.&demo-url=https%3A%2F%2Ftemplate-nextjs-clean.sanity.build&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx&external-id=nextjs%3Btemplate%3Dnextjs-sanity-clean
-[integration]: https://www.sanity.io/docs/vercel-integration?utm_source=github.com&utm_medium=referral&utm_campaign=nextjs-v3vercelstarter
+[vercel-deploy]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmarraleks%2FSanityNextTemplate&repository-name=SanityNextTemplate&project-name=SanityNextTemplate&demo-title=Clean+Sanity+%2B+Next.js+app&demo-description=A+clean+example+of+Next.js+with+embedded+Sanity+ready+for+recomposition.&demo-url=https%3A%2F%2Ftemplate-nextjs-clean.sanity.build&demo-image=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F81pocpw8%2Fproduction%2Fee16bd4401e3f5e90cce7b483106a1e835b4b6d1-1600x1001.png%3Frect%3D0%2C80%2C1600%2C840%26w%3D1200%26h%3D630%26fit%3Dfillmax%26auto%3Dformat&integration-ids=oac_hb2LITYajhRQ0i4QznmKH7gx&external-ids=nextjs;template=SanityNextTemplate
 [`.env.local.example`]: .env.local.example
 [nextjs]: https://github.com/vercel/next.js
 [sanity-create]: https://www.sanity.io/get-started/create-project?utm_source=github.com&utm_medium=referral&utm_campaign=nextjs-v3vercelstarter
@@ -148,4 +147,5 @@ You can remove it by deleting `intro-template`, and removing `IntroTemplate` usa
 [vercel]: https://vercel.com
 [vercel-github]: https://github.com/vercel/next.js/discussions
 [app-dir]: https://beta.nextjs.org/docs/routing/fundamentals#the-app-directory
+
 # SanityNextTemplate
